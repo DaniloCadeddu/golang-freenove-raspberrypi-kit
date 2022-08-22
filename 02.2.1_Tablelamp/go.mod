@@ -1,4 +1,4 @@
-module button_led
+module tablelamp
 
 go 1.18
 
